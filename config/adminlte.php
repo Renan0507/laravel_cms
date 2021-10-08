@@ -245,15 +245,21 @@ return [
         [
             'text'        => 'Meus Usuários',
             'url'         => 'painel/users',
-            'icon'        => 'far fa-fw fa-file'
+            'icon'        => 'far fa-fw fa-file',
+            'can'         => 'edit-users'
         ],
 
-        ['header' => 'account_settings'],
+        ['header' => 'Configurações'],
         [
-            'text' => 'profile',
-            'url'  => 'admin/settings',
-            'icon' => 'fas fa-fw fa-user',
+            'text'        => 'Configurações do Site',
+            'url'         => 'painel/settings',
+            'icon'        => 'far fa-fw fa-file'
         ],
+        [
+            'text'        => 'Meu Perfil',
+            'url'         => 'painel/profile',
+            'icon'        => 'far fa-fw fa-user'
+        ]
     ],
 
     /*
