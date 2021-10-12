@@ -32,7 +32,6 @@
                 <div class="form-group row">
                     <label class="col-sm-2 col-form-label">Corpo</label>
                     <div class="col-sm-10">
-                        {{-- <textarea name="body" class="form-control">{{old('body')}}</textarea> --}}
                         <textarea name="body" class="form-control bodyfield">{{old('body')}}</textarea>
                     </div>
                 </div>
