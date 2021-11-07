@@ -5,13 +5,13 @@
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./git_img/page" height="800" ><br/><br/>
-  <img src="./git_img/my_profile height="800""><br/><br/>
-  <img src="./git_img/my_users" height="800"><br/><br/>
-  <img src="./git_img/my_pages" height="800"><br/><br/>
-  <img src="./git_img/site_config" height="800"><br/><br/>
-  <img src="./git_img/edit_user" height="800"><br/><br/>
-  <img src="./git_img/dashboard" height="800"><br/><br/>
+  <img src="./git_img/page.png" height="800" ><br/><br/>
+  <img src="./git_img/my_profile.png" height="800"><br/><br/>
+  <img src="./git_img/my_users.png" height="800"><br/><br/>
+  <img src="./git_img/my_pages.png" height="800"><br/><br/>
+  <img src="./git_img/site_config.png" height="800"><br/><br/>
+  <img src="./git_img/edit_user.png" height="800"><br/><br/>
+  <img src="./git_img/dashboard.png" height="800"><br/><br/>
 </div><br/>
 
 ## :tv: Video Demonstrativo
