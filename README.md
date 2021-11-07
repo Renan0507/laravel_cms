@@ -39,22 +39,6 @@
  - 15 - Upload de Imagens
  - 16 - Dashboard da página
 
-# Rotas
-
-  - 1 - / - GET
- - 2 - /painel/ - GET
- - 3 - /painel/login - GET
- - 4 - /painel/login - POST
- - 5 - /painel/register - GET
- - 6 - /painel/register - POST
- - 7 - /painel/logout - POST
- - 8 - /painel/users - RESOURCE
- - 9 - /painel/pages - RESOURCE
- - 10 - /painel/profile - GET
- - 11 - /painel/profilesave - PUT
- - 12 - /painel/settings - GET
- - 13 - /painel/settingssave - PUT
-
 ---
 
 ## 🚀 Tecnologias
