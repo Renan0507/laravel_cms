@@ -5,8 +5,8 @@
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./git_img/page.png" height="400" width="200" >
-  <img src="./git_img/my_profile.png" height="400" width="200">
+  <img src="./git_img/page.png" height="400" width="350" >
+  <img src="./git_img/my_profile.png" height="400" width="350">
   <img src="./git_img/my_users.png" height="400"><br/><br/>
   <img src="./git_img/my_pages.png" height="400"><br/><br/>
   <img src="./git_img/site_config.png" height="400"><br/><br/>
