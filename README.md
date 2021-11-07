@@ -5,7 +5,7 @@
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="./git_img/page"><br/><br/>
+  <img src="git_img/page"><br/><br/>
   <img src="./git_img/my_profile"><br/><br/>
   <img src="./git_img/my_users"><br/><br/>
   <img src="./git_img/my_pages"><br/><br/>
