@@ -6,12 +6,12 @@
 
 <div align="center" >
   <img src="./git_img/page.png" height="400">
+  <img src="./git_img/dashboard.png" height="400"><br/><br/>
   <img src="./git_img/my_profile.png" height="400">
   <img src="./git_img/my_users.png" height="400"><br/><br/>
   <img src="./git_img/my_pages.png" height="400"><br/><br/>
   <img src="./git_img/site_config.png" height="400"><br/><br/>
   <img src="./git_img/edit_user.png" height="400"><br/><br/>
-  <img src="./git_img/dashboard.png" height="400"><br/><br/>
 </div><br/>
 
 ## :tv: Video Demonstrativo
