@@ -25,9 +25,9 @@
                 @foreach ($pages as $page)
                 <tr>
                     <td>{{$page->id}}</td>
-                    <td><a href="#" target="_blank" style="color: black">{{$page->title}}</a></td>
+                    <td><a href="{{url($page->slug)}}" target="_blank" style="color: black">{{$page->title}}</a></td>
                     <td>
-                        <a href="" target="_blank" class="btn btn-sm btn-success">Ver</a>
+                        <a href="{{url($page->slug)}}" target="_blank" class="btn btn-sm btn-success">Ver</a>
 
                         <a href="{{route('pages.edit', ['page' => $page->id])}}" class="btn btn-sm btn-info">Editar</a>
                         
