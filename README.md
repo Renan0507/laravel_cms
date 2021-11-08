@@ -1,4 +1,4 @@
-<h1 align="center">:house_with_garden: Laravel CMS :house_with_garden:</h1>
+<h1 align="center">:office_worker: Laravel CMS :chart_with_upwards_trend:</h1>
 
 <p align="center">O Laravel CMS se trata de um Painel de Controle (CMS) desenvolvido para praticar o conhecimento adquirido em cursos de Laravel.</p>
 
