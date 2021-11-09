@@ -1,4 +1,4 @@
-<h1 align="center">:office_worker: Laravel CMS :chart_with_upwards_trend:</h1>
+<h1 align="center">:chart_with_upwards_trend: Laravel CMS :chart_with_upwards_trend:</h1>
 
 <p align="center">O Laravel CMS se trata de um Painel de Controle (CMS) desenvolvido para praticar o conhecimento adquirido em cursos de Laravel.</p>
 
